@@ -1,2 +1,2 @@
-hello
-error
+#!/bin/bash
+echo hello >> xiaoqiang
